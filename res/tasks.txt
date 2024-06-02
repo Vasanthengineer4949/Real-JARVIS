@@ -1,0 +1,12 @@
+Providing access to file systems
+Ability to open different applications
+Search websites 
+Getting the weather
+Alarm
+Screenshot
+Play some music or youtube video
+Scheduling a meet in Google Calendar
+Automation of Mails
+Stack Overflow Search
+Reminders
+To do automation
